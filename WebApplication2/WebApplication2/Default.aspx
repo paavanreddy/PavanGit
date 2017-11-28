@@ -6,7 +6,7 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
         Welcome to 
-        Pavan KUMAR REDDY!
+        Pavan KUMAR REDDY! How are you 
     </h2>
     <p>
         To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
